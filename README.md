@@ -1,4 +1,4 @@
-# Ex-10A-OBSTACLE-DETECTION-SYSTEM-USING-ULTRASONIC-SENSOR
+# Ex-10-B-OBSTACLE-DETECTION-SYSTEM-USING-ULTRASONIC-SENSOR
 ## Aim:
 To measure the air quality using Gas Sensor  MQ-2 with Arduino UNO Board/ESP-32 using Tinker CAD.
 
